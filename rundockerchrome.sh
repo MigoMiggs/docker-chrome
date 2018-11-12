@@ -1,0 +1,1 @@
+docker run -p 5900:5900 -e VNC_SERVER_PASSWORD=qasalo --user apps --privileged local/chrome:0.0.1
